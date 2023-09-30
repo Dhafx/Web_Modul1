@@ -1,0 +1,15 @@
+th {
+    background-color: #04AA6D;
+}
+table,tr,th,td {
+
+    -webkit-text-fill-color: rgb(223, 230, 230);
+}
+
+table{
+    background-color: #688a7d;
+}
+
+th, td {
+    padding: 0.5rem;
+}
